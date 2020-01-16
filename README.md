@@ -1,5 +1,10 @@
 # 🧶 string-utils
 
+[![Travis CI](https://img.shields.io/travis/AnandChowdhary/string-utils.svg)](https://travis-ci.org/AnandChowdhary/string-utils)
+[![Coverage Status](https://coveralls.io/repos/github/AnandChowdhary/string-utils/badge.svg?branch=master&v=2)](https://coveralls.io/github/AnandChowdhary/string-utils?branch=master)
+[![GitHub](https://img.shields.io/github/license/anandchowdhary/string-utils.svg)](https://github.com/AnandChowdhary/string-utils/blob/master/LICENSE)
+![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/AnandChowdhary/string-utils.svg)
+
 ## ⭐ Usage
 
 Add the dependency from NPM:
