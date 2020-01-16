@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Anand Chowdhary <mail@anandchowdhary.com>",
   "license": "MIT",
+  "scripts": {
+    "test-coverage": "jest --coverage",
+    "test": "jest --coverage --coverageReporters=text-lcov | coveralls"
+  },
   "devDependencies": {
     "@types/jest": "^24.9.0",
     "coveralls": "^3.0.9",
